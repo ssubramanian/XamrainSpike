@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">XamrainSpike</string>
+	<string name="home_tab_label">Home</string>
+	<string name="schedule_tab_label">Schedule</string>
+	<string name="location_tab_label">Location</string>
+</resources>
