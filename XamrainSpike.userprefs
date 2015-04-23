@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="XamrainSpike/XamrainSpike.csproj">
+﻿<Properties StartupItem="XamrainSpike/XamrainSpikeAndroid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_6_API_19" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XamrainSpike/MainActivity.cs">
     <Files>
@@ -20,5 +20,5 @@
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.XamrainSpike AndroidDesignerPreferredDevice="Nexus 6" />
+  <MonoDevelop.Ide.ItemProperties.XamrainSpikeAndroid AndroidDesignerPreferredDevice="Nexus 6" />
 </Properties>

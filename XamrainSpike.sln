@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamrainSpike", "XamrainSpike\XamrainSpike.csproj", "{C7031F59-469C-4AD5-B3C9-0421ABCA12AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamrainSpikeAndroid", "XamrainSpike\XamrainSpikeAndroid.csproj", "{C7031F59-469C-4AD5-B3C9-0421ABCA12AE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{8983DE4E-EB4D-4589-808C-F5C8D8AD3465}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

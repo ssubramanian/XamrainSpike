@@ -79,6 +79,7 @@
     <AndroidResource Include="Resources\values\themes.xml" />
     <AndroidResource Include="Resources\layout\tab.axml" />
   </ItemGroup>
+  <Import Project="..\SharedProject\SharedProject.projitems" Label="Shared" Condition="Exists('..\SharedProject\SharedProject.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

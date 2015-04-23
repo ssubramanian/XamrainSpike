@@ -16,6 +16,7 @@ using Android.Support.V4.App;
 using Android.Locations;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using SharedProject;
 
 namespace XamrainSpike
 {
@@ -52,7 +53,8 @@ namespace XamrainSpike
 				{
 					var view = i.Inflate(Resource.Layout.tab, v, false);
 					var sampleTextView = view.FindViewById<TextView>(Resource.Id.textView1);
-					var schedules = GetSchedule();
+					Api api = new Api();
+					var schedules = api.GetSchedule();
 
 					foreach(Schedule schedule in schedules){
 						sampleTextView.Text += schedule.title.ToString() + " ";
@@ -112,30 +114,6 @@ namespace XamrainSpike
 			_locationManager.RemoveUpdates(this);
 		}
 
-		List<Schedule> GetSchedule()
-		{
-			// Get the latitude and longitude entered by the user and create a query.
-			string url = "http://staging.activelifeadmin.com/dummy/websearch/public/index/getscheduleslist?branch_ids=3";
-
-			// Create an HTTP web request using the URL:
-			HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create (new Uri (url));
-			request.ContentType = "application/json";
-			request.Method = "GET";
-
-			// Send the request to the server and wait for the response:
-			using (WebResponse response = request.GetResponse ())
-			{
-				// Get a stream representation of the HTTP web response:
-				using (StreamReader reader = new StreamReader(response.GetResponseStream ()))
-				{
-					string content = reader.ReadToEnd();
-					List<Schedule> schedules = JsonConvert.DeserializeObject<List<Schedule>> (content);
-
-					return schedules;
-				}
-			}
-		}
-
 		string GetAddress()
 		{
 			if (_currentLocation == null)
@@ -182,12 +160,6 @@ namespace XamrainSpike
 				_locationProvider = String.Empty;
 			}
 		}
-	}
-
-	public class Schedule
-	{
-		public string sched_type_id { get; set; }
-		public string title { get; set; }
 	}
 }
 
