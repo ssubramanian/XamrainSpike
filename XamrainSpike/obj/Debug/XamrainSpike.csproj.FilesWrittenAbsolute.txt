@@ -21,3 +21,4 @@
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/bin/Debug/Xamarin.Android.Support.v4.dll
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/bin/Debug/Xamarin.Android.Support.v13.dll
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/obj/Debug/res/layout/tab.xml
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/bin/Debug/Newtonsoft.Json.dll

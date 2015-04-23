@@ -70,6 +70,7 @@ class MonoPackageManager_Resources {
 		"XamrainSpike.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v13.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

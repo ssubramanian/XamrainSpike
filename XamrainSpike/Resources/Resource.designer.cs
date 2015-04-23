@@ -48,7 +48,10 @@ namespace XamrainSpike
 			public const int Icon = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int selector = 2130837505;
+			public const int monoandroidsplash = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int selector = 2130837506;
 			
 			static Drawable()
 			{
@@ -150,11 +153,14 @@ namespace XamrainSpike
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int CustomActionBarTheme = 2131034112;
-			
 			// aapt resource value: 0x7f050001
-			public const int MyActionBar = 2131034113;
+			public const int CustomActionBarTheme = 2131034113;
+			
+			// aapt resource value: 0x7f050000
+			public const int Mono_Android_Theme_Splash = 2131034112;
+			
+			// aapt resource value: 0x7f050002
+			public const int MyActionBar = 2131034114;
 			
 			static Style()
 			{
