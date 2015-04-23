@@ -75,6 +75,9 @@ namespace XamrainSpike
 			// aapt resource value: 0x7f060006
 			public const int linearLayout4 = 2131099654;
 			
+			// aapt resource value: 0x7f060008
+			public const int pager = 2131099656;
+			
 			// aapt resource value: 0x7f060001
 			public const int textView1 = 2131099649;
 			
@@ -105,6 +108,9 @@ namespace XamrainSpike
 			
 			// aapt resource value: 0x7f030001
 			public const int Main = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int tab = 2130903042;
 			
 			static Layout()
 			{

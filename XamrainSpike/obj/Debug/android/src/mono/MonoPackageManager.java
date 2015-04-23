@@ -68,6 +68,8 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"XamrainSpike.dll",
+		"Xamarin.Android.Support.v4.dll",
+		"Xamarin.Android.Support.v13.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

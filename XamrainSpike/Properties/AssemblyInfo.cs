@@ -1,5 +1,6 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using Android;
 using Android.App;
 
 // Information about this assembly is defined by the following attributes.
@@ -25,4 +26,8 @@ using Android.App;
 
 //[assembly: AssemblyDelaySign(false)]
 //[assembly: AssemblyKeyFile("")]
+
+[assembly: UsesPermission(Manifest.Permission.AccessFineLocation)]
+[assembly: UsesPermission(Manifest.Permission.AccessCoarseLocation)]
+[assembly: UsesPermission(Manifest.Permission.Internet)]
 

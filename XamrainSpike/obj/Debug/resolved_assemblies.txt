@@ -1,1 +1,3 @@
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/bin/Debug/XamrainSpike.dll
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/packages/Xamarin.Android.Support.v4.22.0.0.0/lib/MonoAndroid10/Xamarin.Android.Support.v4.dll
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/packages/Xamarin.Android.Support.v13.22.0.0.0/lib/MonoAndroid32/Xamarin.Android.Support.v13.dll
