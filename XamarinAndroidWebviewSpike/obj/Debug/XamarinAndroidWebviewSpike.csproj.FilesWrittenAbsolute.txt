@@ -1,0 +1,17 @@
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/bin/Debug/XamarinAndroidWebviewSpike.dll.mdb
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/bin/Debug/XamarinAndroidWebviewSpike.dll
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/bin/Debug/XamarinAndroidWebviewSpike.XamarinAndroidWebviewSpike.apk
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/android/bin/XamarinAndroidWebviewSpike.XamarinAndroidWebviewSpike.apk
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/layout/main.xml
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/values/strings.xml
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/drawable-hdpi/icon.png
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/drawable-mdpi/icon.png
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/R.cs.flag
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/bin/Debug/XamarinAndroidWebviewSpike.XamarinAndroidWebviewSpike-Signed.apk
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/uploadflags.txt
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/XamarinAndroidWebviewSpike.dll
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/XamarinAndroidWebviewSpike.dll.mdb

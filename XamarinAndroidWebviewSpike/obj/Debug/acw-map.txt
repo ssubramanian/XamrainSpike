@@ -1,0 +1,2 @@
+XamarinAndroidWebviewSpike.MainActivity;xamarinandroidwebviewspike.MainActivity
+XamarinAndroidWebviewSpike.MainActivity.HybridWebViewClient;xamarinandroidwebviewspike.MainActivity_HybridWebViewClient
