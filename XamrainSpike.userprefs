@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="XamarinSpikeiOS/XamarinSpikeiOS.csproj">
+﻿<Properties StartupItem="XamarinAndroidWebviewSpike/XamarinAndroidWebviewSpike.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XamarinSpikeiOS/TabController.cs">
     <Files>

@@ -6,6 +6,7 @@ using Android.Views;
 using Android.Webkit;
 using Android.Widget;
 using Android.OS;
+using SharedProject;
 
 namespace XamarinAndroidWebviewSpike
 {
@@ -26,7 +27,7 @@ namespace XamarinAndroidWebviewSpike
 			webView.SetWebViewClient (new HybridWebViewClient ());
 
 			// Render the view from the type generated from RazorView.cshtml
-			var model = new Model1 () { Text = "Text goes here" };
+			var model = new Model1 () { Text = "This app took 10 mins" };
 			var template = new RazorView () { Model = model };
 			var page = template.GenerateString ();
 
@@ -53,20 +54,39 @@ namespace XamarinAndroidWebviewSpike
 				var method = resources [0];
 				var parameters = System.Web.HttpUtility.ParseQueryString (resources [1]);
 
-				if (method == "UpdateLabel") {
-					var textbox = parameters ["textbox"];
 
-					// Add some text to our string here so that we know something
-					// happened on the native part of the round trip.
-					var prepended = string.Format ("C# says \"{0}\"", textbox);
+				switch (method)
+				{
+				case "Home":
+					update_text(webView, "This app took 10 mins");
+					break;
+				case "Schedule":
+					{
+						Api api = new Api();
+						var schedules = api.GetSchedule();
+						string schedule_text = string.Empty;
 
-					// Build some javascript using the C#-modified result
-					var js = string.Format ("SetLabelText('{0}');", prepended);
-
-					webView.LoadUrl ("javascript:" + js);
+						foreach(Schedule schedule in schedules){
+							schedule_text += schedule.title.ToString() + " ";
+						}
+						update_text (webView, schedule_text);
+						break;
+					}
+				case "Location":
+					update_text(webView, "TODO");
+					break;
 				}
 
 				return true;
+			}
+
+			void update_text(WebView webView, string text)
+			{
+				
+				// Build some javascript using the C#-modified result
+				var js = string.Format ("SetLabelText('{0}');", text);
+
+				webView.LoadUrl ("javascript:" + js);
 			}
 		}
 	}

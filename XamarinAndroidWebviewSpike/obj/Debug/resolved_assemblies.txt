@@ -1,1 +1,2 @@
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/bin/Debug/XamarinAndroidWebviewSpike.dll
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll

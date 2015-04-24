@@ -31,17 +31,16 @@
 	<body>
 		<div data-role="page" data-theme="b">
 			<form>
-				
 				<div data-role="content">
-
-					<h1 id="label">@Model.Text</h1>
-
-					<input type="text" id="textbox" name="textbox" />
-
-					<input type="button" name="UpdateLabel" value="Click" onclick="InvokeCSharpWithFormValues(this)" />
-
+					<table style="width:100%;">
+						<tr>
+						<td><input type="button" style="width:100%;" name="Home" value="Home" onclick="InvokeCSharpWithFormValues(this)" /></td>
+						<td><input type="button" style="width:100%;" name="Schedule" value="Schedule" onclick="InvokeCSharpWithFormValues(this)" /></td>
+						<td><input type="button" style="width:100%;" name="Location" value="Location" onclick="InvokeCSharpWithFormValues(this)" /></td>
+						</tr>
+					</table>
+					<h2 id="label">@Model.Text</h2>
 				</div>
-
 			</form>
 		</div>
 	</body>

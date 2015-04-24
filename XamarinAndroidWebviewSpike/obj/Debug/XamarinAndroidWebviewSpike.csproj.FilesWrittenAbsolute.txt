@@ -15,3 +15,4 @@
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/uploadflags.txt
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/XamarinAndroidWebviewSpike.dll
 /Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/obj/Debug/XamarinAndroidWebviewSpike.dll.mdb
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinAndroidWebviewSpike/bin/Debug/Newtonsoft.Json.dll
