@@ -1,24 +1,43 @@
-﻿<Properties StartupItem="XamrainSpike/XamrainSpikeAndroid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_6_API_19" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamrainSpike/MainActivity.cs">
+﻿<Properties StartupItem="XamarinSpikeiOS/XamarinSpikeiOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinSpikeiOS/TabController.cs">
     <Files>
-      <File FileName="XamrainSpike/MainActivity.cs" Line="99" Column="21" />
-      <File FileName="XamrainSpike/Resources/values/Strings.xml" Line="1" Column="1" />
-      <File FileName="XamrainSpike/Resources/drawable/selector.xml" Line="1" Column="1" />
-      <File FileName="XamrainSpike/Resources/values/themes.xml" Line="1" Column="1" />
-      <File FileName="XamrainSpike/GenericFragmentPagerAdaptor.cs" Line="1" Column="1" />
-      <File FileName="XamrainSpike/GenericViewPagerFragment.cs" Line="1" Column="1" />
-      <File FileName="XamrainSpike/Properties/AssemblyInfo.cs" Line="4" Column="19" />
-      <File FileName="XamrainSpike/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="XamarinSpikeiOS/LocationManager.cs" Line="72" Column="37" />
+      <File FileName="XamarinSpikeiOS/TabController.cs" Line="76" Column="37" />
+      <File FileName="XamarinSpikeiOS/Main.cs" Line="1" Column="1" />
+      <File FileName="XamarinSpikeiOS/XamarinSpikeiOSViewController.cs" Line="25" Column="38" />
+      <File FileName="XamarinSpikeiOS/LocationUpdateEventArgs.cs" Line="2" Column="20" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SharedProject" expanded="True" />
+          <Node name="XamarinSpikeiOS" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Packages" expanded="True" />
+            <Node name="TabController.cs" selected="True" />
+            <Node name="XamarinSpikeiOSViewController.cs" expanded="True" />
+          </Node>
+          <Node name="XamrainSpikeAndroid" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Packages" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/MainActivity.cs" line="106" column="1" />
-      <Breakpoint file="/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/MainActivity.cs" line="75" column="1" />
-      <Breakpoint file="/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamrainSpike/MainActivity.cs" line="35" column="1" />
+      <Breakpoint file="/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/LocationManager.cs" line="73" column="1" />
+      <Breakpoint file="/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/TabController.cs" line="76" column="1" />
+      <Breakpoint file="/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/TabController.cs" line="19" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="XamarinSpikeiOS/TabController.cs" line="19" offsetX="444" offsetY="270" expression="LocMgr.Location" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.XamrainSpikeAndroid AndroidDesignerPreferredDevice="Nexus 6" />
 </Properties>

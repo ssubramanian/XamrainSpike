@@ -1,0 +1,15 @@
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/bin/iPhoneSimulator/Debug/XamarinSpikeiOS.exe.mdb
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/bin/iPhoneSimulator/Debug/XamarinSpikeiOS.exe
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/XamarinSpikeiOS.exe
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/XamarinSpikeiOS.exe.mdb
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/ibtool/LocationController_iPhone.nib
+/Users/ssubramanian/Documents/Repo/Spikes/Xamarin/XamrainSpike/XamarinSpikeiOS/obj/iPhoneSimulator/Debug/ibtool/LocationController_iPad.nib
